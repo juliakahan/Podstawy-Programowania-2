@@ -1,6 +1,8 @@
 
 //27, 50, 60,
 
+//Kod z poprzednich zajęć otrzymany od Tymoteusza T.
+
 #include <iostream>
 #include "Vectored_List.h"
 
