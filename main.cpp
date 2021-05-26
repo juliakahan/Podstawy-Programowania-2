@@ -107,7 +107,7 @@ int main()
     cout<<endl;
     VectoredList v6 =  move(v5);
 
-   cout<<"v4"<<endl;
+   cout<<"v6"<<endl;
     for(int i=0; i< v6.getSize(); ++i){
         cout<<v6[i]<<" ";
     }
