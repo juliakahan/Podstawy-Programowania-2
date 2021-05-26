@@ -1,5 +1,5 @@
 
-//27, 50, 60,
+//Kod z poprzednich zajec jest od Tymoteusza
 
 #include <iostream>
 #include "Vectored_List.h"
